@@ -49,6 +49,7 @@ body{
   padding: 0.2em 0;
   box-shadow: 0px 10px 20px rgba(0, 94, 176, 0.20);
   border-top: 0.3em solid gray;
+  background-color: white;
 }
 
 .card-info{
